@@ -1,0 +1,24 @@
+@import "../styles/responsive";
+
+.details-container {
+    width: 100%;
+
+    &__header {
+        @include respond(phone) {
+            text-align: center !important;
+        }
+    }
+}
+
+.spell{
+    @include respond(phone) {
+        text-align: center !important;
+        margin-left: 0 !important;
+    }
+}
+
+.desc{
+    @include respond(phone) {
+        margin-left: 0 !important;
+    }
+}

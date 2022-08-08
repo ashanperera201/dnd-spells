@@ -1,0 +1,9 @@
+@import "../../styles/responsive";
+
+.header-container {
+    text-align: start;
+
+    @include respond(phone) {
+        text-align: center !important;
+    }
+}
