@@ -15,7 +15,7 @@ const DndHomePage = (props: any) => {
             <div className='spell-container'>
                 <Header />
                 <div className='spell-container__action'>
-                    <Button variant="contained" onClick={() => setOpen(true)}>View Favorites</Button>
+                    <Button data-testid="favorite-btn-element" variant="contained" onClick={() => setOpen(true)}>View Favorites</Button>
                 </div>
                 <div className="spell-container__table">
                     <SpellList />

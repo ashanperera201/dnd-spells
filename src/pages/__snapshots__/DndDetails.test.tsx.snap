@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DND details page Should be renders dnd detail page correctly. 1`] = `
+<div
+  className="details-container"
+>
+  <h3
+    className="MuiTypography-root MuiTypography-h3 details-container__header css-mn6ykh-MuiTypography-root"
+  >
+    Spell Detail
+  </h3>
+  <h6
+    className="MuiTypography-root MuiTypography-h6 spell css-1r5gz7r-MuiTypography-root"
+  >
+    <b>
+      Spell Name
+    </b>
+     : 
+  </h6>
+  <h6
+    className="MuiTypography-root MuiTypography-h6 desc css-u6jdkr-MuiTypography-root"
+  >
+    <b>
+      Spell Description
+    </b>
+     : 
+  </h6>
+  <h6
+    className="MuiTypography-root MuiTypography-h6 desc css-u6jdkr-MuiTypography-root"
+  >
+    <b>
+      Higher Level
+    </b>
+     : 
+  </h6>
+  <h6
+    className="MuiTypography-root MuiTypography-h6 desc css-u6jdkr-MuiTypography-root"
+  >
+    <b>
+      Material
+    </b>
+     : 
+  </h6>
+  <h6
+    className="MuiTypography-root MuiTypography-h6 desc css-u6jdkr-MuiTypography-root"
+  >
+    <b>
+      Range
+    </b>
+     : 
+  </h6>
+</div>
+`;

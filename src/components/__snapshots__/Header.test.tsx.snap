@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should be render header component properly. 1`] = `
+<h3
+  className="MuiTypography-root MuiTypography-h3 header-container css-1mocu2h-MuiTypography-root"
+>
+  DND 5 Spells
+</h3>
+`;
